@@ -59,6 +59,3 @@ A/B testing (split testing) is a method used to compare two variants of a produc
 - Expand to include confidence intervals
 - Simulate more metrics (e.g., revenue per user)
 - Package into reusable function for repeated tests
-
-
-
